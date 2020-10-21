@@ -1,0 +1,42 @@
+
+main{
+    /* background: whitesmoke; */
+    margin:5% 0 0 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .main-left{
+    line-height: 100px;
+  }
+  
+  .main-left h2{
+    font-size: 4rem;
+    font-family: 'ZOO3';
+    margin:0 20px;
+  }
+  
+  .main-left p{
+    font-size: 4rem;
+    font-family: 'ZOO3';
+    margin: 0 20px;
+  }
+  
+  
+  
+  .main-right img{
+    width: 400px;
+    height: 100%;
+    margin-right:120px;
+    animation: App-logo-spin 5s infinite linear;
+    border-radius: 66px;
+    
+  }
+  
+  .main-left span{
+    display: block;
+    font-family: 'ZOO3';
+    margin: 0 20px;
+    font-size: 2rem;
+  
+  }
